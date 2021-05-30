@@ -19,6 +19,9 @@
 
 
 ## Instructions to run
+	
+*API Running at 
+	- https://afterhours-api.herokuapp.com/
 
 * Pre-requisites
 
